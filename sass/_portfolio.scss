@@ -22,7 +22,10 @@
                 width: 100%;
                 display: block;
             }
-           
+           a{
+            color: var(--skin-color);
+            font-weight: 800;
+           }
         }
     }
 }

@@ -27,7 +27,7 @@ body.color3 {
   --skin-color: #1E90FF;
 }
 body.color4 {
-  --skin-color: #FF8C00;
+  --skin-color: #9F4D95;
 }
 body.dark {
   --bg-black-900: #151515;
@@ -623,6 +623,10 @@ p {
   width: 100%;
   display: block;
 }
+.container .portfolio-item .portfolio-item-inner a {
+  color: var(--skin-color);
+  font-weight: 800;
+}
 
 .contact-title {
   color: var(--skin-color);
@@ -854,5 +858,5 @@ p {
   background: #1E90FF;
 }
 .style-switcher .colors .color-5 {
-  background: #FF8C00;
+  background: #9F4D95;
 }/*# sourceMappingURL=style.css.map */
