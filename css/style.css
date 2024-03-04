@@ -132,6 +132,11 @@ body .section.back-section {
   box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
 }
 
+p {
+  color: var(--text-black-900);
+  font-weight: 800;
+}
+
 /* aside */
 .aside {
   width: 270px;
@@ -617,6 +622,9 @@ body .section.back-section {
 .container .portfolio-item .portfolio-item-inner img {
   width: 100%;
   display: block;
+}
+.container .portfolio-item .portfolio-item-inner .portfolio-img {
+  background: var(--skin-color);
 }
 
 .contact-title {
