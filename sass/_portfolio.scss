@@ -14,7 +14,7 @@
         max-width: 33.33%;
         margin-bottom: 30px;
         .portfolio-item-inner{
-            border: 6px solid var(--bg-black-100);
+            border: 6px solid var(--skin-color);
             border-radius: 10px;
             overflow: hidden;
             cursor: pointer;
@@ -22,9 +22,7 @@
                 width: 100%;
                 display: block;
             }
-            .portfolio-img{
-                background: var(--skin-color);
-            }
+           
         }
     }
 }

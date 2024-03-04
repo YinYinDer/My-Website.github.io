@@ -55,7 +55,7 @@ window.addEventListener('load', () => {
 
 /*=========== typed.js  ==========*/
 let typed = new Typed('.typing', {
-    strings: ["Figma.", "SASS.", "JavaScript.", "Vue.","Git."],
+    strings: [ "CSS.", "SASS.","Bootstrap.","JavaScript.", "Vue.","Git.","Figma.",],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true,
